@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("ПРИВЕТ МИРРР!");
+        System.out.println("ПРИВЕТ МИРРРРР!");
     }
 }
